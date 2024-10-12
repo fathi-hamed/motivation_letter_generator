@@ -25,4 +25,3 @@ Motivation letter generator for services company using groq, langchain and strea
    ```
    
 
-Copyright (C) Codebasics Inc. All rights reserved.
